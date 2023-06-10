@@ -1,0 +1,9 @@
+# poetry
+export PATH="$HOME/.local/bin:$PATH"
+
+# deno
+export DENO_INSTALL="$HOME/.deno"
+  export PATH="$DENO_INSTALL/bin:$PATH"
+
+# Starship
+eval "$(starship init zsh)"

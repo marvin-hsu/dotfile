@@ -1,0 +1,11 @@
+[default.files]
+profile = "~/.profile"
+vimrc = "~/.vimrc"
+
+[bash.files]
+"bash/bashrc" = "~/.bashrc"
+"bash/bash_logout" = "~/.bash_logout"
+
+[zsh.files]
+"zsh/zshenv" = "~/.zshenv"
+"zsh/zshrc" = "~/.zshrc"
