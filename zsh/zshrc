@@ -5,5 +5,9 @@ export PATH="$HOME/.local/bin:$PATH"
 export DENO_INSTALL="$HOME/.deno"
   export PATH="$DENO_INSTALL/bin:$PATH"
 
+# clone zsh-autosuggestions first
+# git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
 # Starship
 eval "$(starship init zsh)"
