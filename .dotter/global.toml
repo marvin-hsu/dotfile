@@ -1,6 +1,7 @@
 [default.files]
 profile = "~/.profile"
 vimrc = "~/.vimrc"
+starship = "~/.config/starship.toml"
 
 [bash.files]
 "bash/bashrc" = "~/.bashrc"
