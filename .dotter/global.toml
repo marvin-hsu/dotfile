@@ -12,3 +12,4 @@ starship = "~/.config/starship.toml"
 
 [vim.files]
 "vim/vimrc" = "~/.vimrc"
+"vim/ideavimrc" = "~/.ideavimrc"
