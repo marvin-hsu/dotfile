@@ -1,6 +1,5 @@
 [default.files]
 profile = "~/.profile"
-vimrc = "~/.vimrc"
 starship = "~/.config/starship.toml"
 
 [bash.files]
@@ -10,3 +9,6 @@ starship = "~/.config/starship.toml"
 [zsh.files]
 "zsh/zshenv" = "~/.zshenv"
 "zsh/zshrc" = "~/.zshrc"
+
+[vim.files]
+"vim/vimrc" = "~/.vimrc"
